@@ -19,6 +19,7 @@
 | 0608 | [Tree Node](https://leetcode.com/problems/tree-node) | Medium | `Database` |
 | 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | Easy | `Database` |
 | 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products) | Medium | `Database` |
+| 1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii) | Medium | `Database` |
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) | Easy | `Database` |
 | 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) | Medium | `Database` |
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations) | Easy | `Database` |

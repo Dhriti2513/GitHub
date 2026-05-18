@@ -117,6 +117,15 @@
     ]
   },
   {
+    "id": 1070,
+    "title": "Product Sales Analysis III",
+    "title_slug": "product-sales-analysis-iii",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1141,
     "title": "User Activity for the Past 30 Days I",
     "title_slug": "user-activity-for-the-past-30-days-i",
