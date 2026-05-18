@@ -54,6 +54,15 @@
     ]
   },
   {
+    "id": 585,
+    "title": "Investments in 2016",
+    "title_slug": "investments-in-2016",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 586,
     "title": "Customer Placing the Largest Number of Orders",
     "title_slug": "customer-placing-the-largest-number-of-orders",
