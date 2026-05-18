@@ -10,6 +10,7 @@
 | 0178 | [Rank Scores](https://leetcode.com/problems/rank-scores) | Medium | `Database` |
 | 0180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) | Medium | `Database` |
 | 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) | Easy | `Database` |
+| 0184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary) | Medium | `Database` |
 | 0262 | [Trips and Users](https://leetcode.com/problems/trips-and-users) | Hard | `Database` |
 | 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | Easy | `Database` |
 | 0585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016) | Medium | `Database` |

@@ -36,6 +36,15 @@
     ]
   },
   {
+    "id": 184,
+    "title": "Department Highest Salary",
+    "title_slug": "department-highest-salary",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 262,
     "title": "Trips and Users",
     "title_slug": "trips-and-users",
