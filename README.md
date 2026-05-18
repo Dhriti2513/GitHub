@@ -12,4 +12,5 @@
 | 0586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) | Easy | `Database` |
 | 0596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students) | Easy | `Database` |
 | 0620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) | Easy | `Database` |
+| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) | Easy | `Database` |
 | 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) | Medium | `Database` |
