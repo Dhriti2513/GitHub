@@ -17,3 +17,4 @@
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i) | Easy | `Database` |
 | 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) | Medium | `Database` |
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations) | Easy | `Database` |
+| 1341 | [Movie Rating](https://leetcode.com/problems/movie-rating) | Medium | `Database` |

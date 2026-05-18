@@ -97,5 +97,14 @@
     "skills": [
       "Database"
     ]
+  },
+  {
+    "id": 1341,
+    "title": "Movie Rating",
+    "title_slug": "movie-rating",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
   }
 ]
