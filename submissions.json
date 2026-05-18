@@ -18,6 +18,15 @@
     ]
   },
   {
+    "id": 180,
+    "title": "Consecutive Numbers",
+    "title_slug": "consecutive-numbers",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 181,
     "title": "Employees Earning More Than Their Managers",
     "title_slug": "employees-earning-more-than-their-managers",
