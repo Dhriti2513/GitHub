@@ -18,6 +18,15 @@
     ]
   },
   {
+    "id": 262,
+    "title": "Trips and Users",
+    "title_slug": "trips-and-users",
+    "difficulty": "Hard",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 584,
     "title": "Find Customer Referee",
     "title_slug": "find-customer-referee",
