@@ -9,6 +9,15 @@
     ]
   },
   {
+    "id": 178,
+    "title": "Rank Scores",
+    "title_slug": "rank-scores",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 181,
     "title": "Employees Earning More Than Their Managers",
     "title_slug": "employees-earning-more-than-their-managers",
