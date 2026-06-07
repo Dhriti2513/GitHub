@@ -83,4 +83,5 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | ------- |
 | [0482-license-key-formatting](https://github.com/Dhriti2513/leetcode-journal/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Dhriti2513/leetcode-journal/tree/master/0520-detect-capital) |
+| [0831-masking-personal-information](https://github.com/Dhriti2513/leetcode-journal/tree/master/0831-masking-personal-information) |
 <!---LeetCode Topics End-->
