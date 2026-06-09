@@ -41,6 +41,7 @@ The solutions are organized into dedicated folders by problem name. Each directo
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhriti2513/leetcode-journal/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhriti2513/leetcode-journal/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhriti2513/leetcode-journal/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,4 +91,8 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhriti2513/leetcode-journal/tree/master/2161-partition-array-according-to-given-pivot) |
+## Greedy
+|  |
+| ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
