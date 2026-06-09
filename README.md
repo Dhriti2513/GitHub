@@ -95,4 +95,8 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [3689-maximum-total-subarray-value-i](https://github.com/Dhriti2513/leetcode-journal/tree/master/3689-maximum-total-subarray-value-i) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Dhriti2513/leetcode-journal/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
