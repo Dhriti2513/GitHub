@@ -99,4 +99,5 @@ The solutions are organized into dedicated folders by problem name. Each directo
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dhriti2513/leetcode-journal/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0328-odd-even-linked-list](https://github.com/Dhriti2513/leetcode-journal/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
